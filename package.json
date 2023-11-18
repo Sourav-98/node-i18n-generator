@@ -1,0 +1,20 @@
+{
+  "name": "node-i18n-generator",
+  "version": "1.0.0",
+  "description": "Sample i18n asset generator with NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NodeJS",
+    "i18n",
+    "localization"
+  ],
+  "author": "SRC Inc.",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^5.5.2"
+  }
+}
