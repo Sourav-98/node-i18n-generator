@@ -4,7 +4,7 @@
   "description": "Sample i18n asset generator with NodeJS",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node index.js en_US en_GB de_DE fr_FR es_ES ru_RU ar_AE",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [

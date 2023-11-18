@@ -1,0 +1,30 @@
+Keys,en_US,en_GB,de_DE,fr_FR,es_ES,ar_AR,ru_RU
+hello,Hello,Hello,Hallo,Bonjour,Hola,مرحبًا,Привет
+welcome,Welcome,Welcome,Willkommen,Accueillir,Bienvenido,مرحباً,Добро пожаловать
+primary,Primary,Primary,Primär,Primaire,Primario,أساسي,Начальный
+secondary,Secondary,Secondary,Sekundär,Secondaire,Secundario,ثانوي,вторичный
+success,Success,Success,Erfolg,Succès,Éxito,نجاح,Успех
+error,Error,Error,Fehler,Erreur,Error,خطأ,Ошибка
+warning,Warning,Warning,Warnung,Avertissement,Advertencia,تحذير,Предупреждение
+info,Info,Info,Die Info,Info,Información,معلومات,Информация
+date,Date,Date,Datum,Date,Fecha,تاريخ,Дата
+time,Time,Time,Zeit,Temps,Tiempo,وقت,Время
+day,Day,Day,Tag,Jour,Día,يوم,День
+month,Month,Month,Monat,Mois,Mes,شهر,Месяц
+year,Year,Year,Jahr,Année,Año,سنة,Год
+color,Color,Color,Farbe,Couleur,Color,لون,Цвет
+colors,Colors,Colors,Farben,Couleurs,Colores,الألوان,Цвета
+style,Style,Style,Stil,Style,Estilo,أسلوب,Стиль
+styles,Styles,Styles,Stile,modes,Estilos,الأنماط,Стили
+theme,Theme,Theme,Thema,Thème,Tema,سمة,Тема
+themes,Themes,Themes,Themen,Thèmes,Temas,المواضيع,Темы
+scheme,Scheme,Scheme,Planen,Schème,Esquema,مخطط,Схема
+schemes,Schemes,Schemes,Schemata,Schémas,Esquemas,المخططات,Схемы
+size,Size,Size,Größe,Taille,Tamaño,مقاس,Размер
+sizes,Sizes,Sizes,Größen,Tailles,Tallas,الأحجام,Размеры
+type,Type,Type,Typ,Taper,Tipo,يكتب,Тип
+types,Types,Types,Typen,Les types,Tipos,أنواع,Типы
+medium,Medium,Medium,Mittel,Moyen,Medio,واسطة,Середина
+small,Small,Small,Klein,Petit,Pequeño,صغير,Маленький
+search,Search,Search,Suchen,Recherche,Buscar,يبحث,Поиск
+noOptions,No Options,No Options,Keine Optionen,Aucune option,Sin opciones,لا يوجد خيارات,Нет вариантов
