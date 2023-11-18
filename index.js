@@ -3,29 +3,20 @@ const path = require("path");
 const parse = require("csv-parse").parse;
 
 const generateTranslation = async (nameSpace, localeCodesConfig) => {
-  const commonCsvFile = await fs.promises.readFile(
+  const translationCsv = await fs.promises.readFile(
     path.resolve(__dirname, `assets/${nameSpace}.csv`),
     { encoding: "utf-8" }
   );
-
+  const columns = translationCsv.split(/\r\n/)[0].split(",");
   parse(
-    commonCsvFile,
+    translationCsv,
     {
       delimiter: ",",
-      columns: [
-        "Keys",
-        "en_US",
-        "en_GB",
-        "de_DE",
-        "fr_FR",
-        "es_ES",
-        "ar_AR",
-        "ru_RU",
-      ],
+      columns
     },
     (err, res) => {
       if (err) {
-        console.log(err);
+        console.log(`Error parsing ${nameSpace}.csv: `, err);
         return;
       }
       const parsedLocale = res.slice(1).reduce((accumulator, localeMap) => {
@@ -41,17 +32,26 @@ const generateTranslation = async (nameSpace, localeCodesConfig) => {
         fs.mkdirSync(path.resolve(__dirname, `locales/${localeCode}`), {
           recursive: true,
         });
-        fs.writeFile(
-          path.resolve(__dirname, `locales/${localeCode}/${nameSpace}.json`),
-          JSON.stringify(parsedLocale[localeCode]),
-          { encoding: "utf-8" },
-          (err) => {
+        fs.promises
+          .writeFile(
+            path.resolve(__dirname, `locales/${localeCode}/${nameSpace}.json`),
+            JSON.stringify(parsedLocale[localeCode]),
+            { encoding: "utf-8" }
+          )
+          .then(() => {
+            console.log(
+              `Successfully generated translations for namespace: ${nameSpace}, locale: ${localeCode}`
+            );
+          })
+          .catch((err) => {
             if (err) {
-              console.log(`Error parsing for ${localeCode}: `, err);
+              console.log(
+                `Error generating translations for ${localeCode}: `,
+                err
+              );
               return;
             }
-          }
-        );
+          });
       });
     }
   );
