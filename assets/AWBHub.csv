@@ -1,0 +1,402 @@
+Keys,en_US,en_GB,de_DE,fr_FR,es_ES,ar_AE,ru_RU
+Charge,Charge,Charge,Aufladung,Charge,Cargar,تكلفة,Заряжать
+ChargeableWeight,Chargeable Weight,Chargeable Weight,Aufladbares Gewicht,Poids taxable,Peso tarifado,الوزن القابل للشحن,Оплачиваемый вес
+Commodity,Commodity,Commodity,Ware,Marchandise,Producto,سلعة,Товар
+Continue,Continue,Continue,Weitermachen,Continuer,Continuar,يكمل,Продолжать
+CurrencyCode,Currency Code,Currency Code,Währungscode,Code de devise,Código de moneda,رمز العملة,Код валюты
+GrossWeight,Gross Weight,Gross Weight,Bruttogewicht,Poids brut,Peso bruto,الوزن الإجمالي,Вес брутто
+Number,Spot Rate Number,Spot Rate Number,Kassakursnummer,Numéro de tarif au comptant,Número de tarifa al contado,رقم السعر الفوري,Номер спотового курса
+ParticipantType,Participant Type,Participant Type,Teilnehmertyp,Type de participant,Tipo de participante,نوع المشارك,Тип участника
+Rate,Rate,Rate,Rate,Taux,Tasa,معدل,Ставка
+RateClass,Rate Class,Rate Class,Tarifklasse,Classe tarifaire,Clase de tarifa,فئة المعدل,Класс тарифа
+RateSource,Rate Source,Rate Source,Preisquelle,Source du taux,Fuente de tarifa,مصدر المعدل,Источник ставок
+RateType,Rate Type,Rate Type,Tarifart,Type de taux,Tipo de cambio,نوع معدل,Тип тарифа
+RatingLine,Rating Line,Rating Line,Bewertungslinie,Ligne de notation,Línea de calificación,خط التقييم,Рейтинговая линия
+Reject,Reject,Reject,Ablehnen,Rejeter,Rechazar,يرفض,Отклонять
+ULDType,ULD Type,ULD Type,ULD-Typ,Type ULD,Tipo ULD,نوع يو إل دي,Тип УЛД
+Weight,Weight,Weight,Gewicht,Poids,Peso,وزن,Масса
+WeightUnit,Weight Unit,Weight Unit,Gewichtseinheit,Unité de poids,Unidad de peso,وحدة الوزن,Весовая единица
+title,Select Spot Rate,Select Spot Rate,Wählen Sie Kassakurs,Sélectionnez le taux au comptant,Seleccionar tarifa al contado,حدد السعر الفوري,Выберите спотовый курс
+AirWaybill,Air Waybill,Air Waybill,Luftfrachtbrief,Lettre de transport aérien,Carta de porte aéreo,بوليصة الشحن الجوي,Авианакладная
+AirWaybillCreationDateTime,Air Waybill Creation Date/Time (UTC),Air Waybill Creation Date/Time (UTC),Datum/Uhrzeit der Erstellung des Luftfrachtbriefs (UTC),Date/heure de création de la lettre de transport aérien (UTC),Fecha/hora de creación de la guía aérea (UTC),تاريخ/وقت إنشاء بوليصة الشحن الجوي (UTC),Дата/время создания авианакладной (UTC)
+AirWaybillDestination,Air Waybill Destination,Air Waybill Destination,Zielort des Luftfrachtbriefs,Destination de la lettre de transport aérien,Destino de la guía aérea,وجهة بوليصة الشحن الجوي,Пункт назначения авианакладной
+AirWaybillOrigin,Air Waybill Origin,Air Waybill Origin,Herkunft des Luftfrachtbriefs,Origine de la lettre de transport aérien,Origen de la carta de porte aéreo,مصدر بوليصة الشحن الجوي,Происхождение авианакладной
+ArchiveShipmentAttachments,Archive Shipment Attachments,Archive Shipment Attachments,Sendungsanhänge archivieren,Archiver les pièces jointes aux envois,Archivar archivos adjuntos de envío,أرشفة مرفقات الشحنة,Архив вложений по доставке
+Attachments,Attachments,Attachments,Anhänge,Pièces jointes,Archivos adjuntos,المرفقات,Вложения
+CancelButton,Cancel,Cancel,Stornieren,Annuler,Cancelar,يلغي,Отмена
+ChooseFile,Choose File,Choose File,Datei wählen,Choisir le fichier,Elija el archivo,اختر ملف,Выберите файл
+DeleteDateTime,Delete Date/Time (UTC),Delete Date/Time (UTC),Datum/Uhrzeit löschen (UTC),Supprimer la date/heure (UTC),Eliminar fecha/hora (UTC),حذف التاريخ/الوقت (التوقيت العالمي المنسق),Удалить дату/время (UTC)
+DeleteStation,Delete Station,Delete Station,Station löschen,Supprimer une station,Eliminar estación,حذف المحطة,Удалить станцию
+DeleteUser,Delete User,Delete User,Benutzer löschen,Supprimer l'utilisateur,Borrar usuario,مسح المستخدم,Удалить пользователя
+Description,Description,Description,Beschreibung,Description,Descripción,وصف,Описание
+Details,Details,Details,Einzelheiten,Détails,Detalles,تفاصيل,Подробности
+FileName,File Name,File Name,Dateiname,Nom de fichier,Nombre del archivo,اسم الملف,Имя файла
+Filename,Filename,Filename,Dateiname,Nom de fichier,Nombre del archivo,اسم الملف,Имя файла
+Function,Function,Function,Funktion,Fonction,Función,وظيفة,Функция
+Process,Process,Process,Verfahren,Processus,Proceso,عملية,Процесс
+Search,Search,Search,Suchen,Recherche,Buscar,يبحث,Поиск
+ShipmentAttachments,Shipment Attachments,Shipment Attachments,Versandanhänge,Pièces jointes à l'expédition,Adjuntos de envío,مرفقات الشحن,Отгрузочные вложения
+Status,Status,Status,Status,Statut,Estado,حالة,Положение дел
+UploadButton,Upload,Upload,Hochladen,Télécharger,Subir,رفع,Загрузить
+UploadDateTime,Upload Date/Time (UTC),Upload Date/Time (UTC),Datum/Uhrzeit des Uploads (UTC),Date/heure de téléchargement (UTC),Fecha/hora de carga (UTC),تاريخ/وقت التحميل (التوقيت العالمي المنسق),Дата/время загрузки (UTC)
+UploadDescription,Upload Description,Upload Description,Beschreibung hochladen,Télécharger la description,Subir descripción,تحميل الوصف,Загрузить описание
+UploadStation,Upload Station,Upload Station,Upload-Station,Station de téléchargement,Subir estación,محطة التحميل,Загрузить станцию
+UploadUser,Upload User,Upload User,Benutzer hochladen,Télécharger l'utilisateur,Subir usuario,تحميل المستخدم,Загрузить пользователя
+Actual,Actual,Actual,Tatsächlich,Réel,Actual,فِعلي,Действительный
+Amount,Amount,Amount,Menge,Montant,Cantidad,كمية,Количество
+ChargeCode,Charge Code,Charge Code,Gebührencode,Code de facturation,Código de carga,رمز الشحن,Код оплаты
+ChargeableWeight,Chargeable Weight,Chargeable Weight,Aufladbares Gewicht,Poids taxable,Peso tarifado,الوزن القابل للشحن,Оплачиваемый вес
+CollectDucAgent,Collect Due Agent,Collect Due Agent,Sammeln Sie den fälligen Agenten,Agent de recouvrement dû,Cobrar debido agente,جمع الوكيل المستحق,Агент по сбору средств
+CollectOueCarrier,Collect Due Carrier,Collect Due Carrier,Sammeln Sie den fälligen Spediteur,Collecter le transporteur dû,Recoger al transportista debido,جمع الناقل المستحق,Получите оплату перевозчика
+Comodity,Commodity,Commodity,Ware,Marchandise,Producto,سلعة,Товар
+Contract,Contract,Contract,Vertrag,Contracter,Contrato,عقد,Договор
+ContractToApply,Contract To Apply,Contract To Apply,Vertrag zur Bewerbung,Contrat à appliquer,Contrato para aplicar,العقد للتقديم,Контракт для подачи заявки
+Credit,Credit,Credit,Kredit,Crédit,Crédito,ائتمان,Кредит
+Details,Details,Details,Einzelheiten,Détails,Detalles,تفاصيل,Подробности
+DimensionalWeight,Dimensional Weight,Dimensional Weight,Dimensionsgewicht,Poids dimensionnel,Peso dimensional,الوزن الأبعاد,Габаритный вес
+Due,Due,Due,Fällig,Exigible,Pendiente,حق,Должный
+Face,Face,Face,Gesicht,Affronter,Rostro,وجه,Лицо
+FlightDateForRating,Flight Date for Rating,Flight Date for Rating,Flugdatum für die Bewertung,Date de vol pour la notation,Fecha de vuelo para calificación,تاريخ الرحلة للتقييم,Дата полета для рейтинга
+FlightNumberForRating,Flight Number for Rating,Flight Number for Rating,Flugnummer für die Bewertung,Numéro de vol pour la notation,Número de vuelo para calificación,رقم الرحلة للتقييم,Номер рейса для рейтинга
+GrossWeight,Gross Weight,Gross Weight,Bruttogewicht,Poids brut,Peso bruto,الوزن الإجمالي,Вес брутто
+NetNet,Nct-Net,Nct-Net,Nct-Net,Nct-Net,nct-net,إن سي تي نت,НКТ-Нет
+OtherChargeDescription,Desciption,Desciption,Beschreibung,Description,Descripción,وصف,Описание
+OtherChargeGenID,Gen 10,Gen 10,Gen 10,Génération 10,generación 10,الجنرال 10,Ген 10
+OtherCharges,Other Charges,Other Charges,Zusatzgebühren,Autres charges,Otros cargos,رسوم أخرى,Другие расходы
+Owner,Owner,Owner,Eigentümer,Propriétaire,Dueño,مالك,Владелец
+PayCode,Pay Code,Pay Code,Zahlungscode,Code de paie,Código de pago,رمز الدفع,Код оплаты
+Pieces,Pieces,Pieces,Stücke,Pièces,Piezas,قِطَع,Куски
+PrepaidDucAgent,Prepaid Due Agent,Prepaid Due Agent,Prepaid Due Agent,Agent dû prépayé,Agente Prepago Vencido,وكيل مستحق الدفع المسبق,Предоплаченный агент
+PrepaidoueCarrier,Prepaid Due Carrier,Prepaid Due Carrier,„Prepaid Fälliger Anbieter“,Transporteur dû prépayé',Transportista Prepago Vencido',الناقل المستحق الدفع المسبق',Предоплаченный перевозчик'
+Published,Published,Published,Veröffentlicht,Publié,Publicado,نشرت,Опубликовано
+QuantityDate,Quantity/Date,Quantity/Date,Menge/Datum,Quantité/Date,Cantidad/Fecha,الكمية/التاريخ,Количество/Дата
+Rate,Rate,Rate,Rate,Taux,Tasa,معدل,Ставка
+RateClass,Rate Class,Rate Class,Tarifklasse,Classe tarifaire,Clase de tarifa,فئة المعدل,Класс тарифа
+RateNote,Rate Note,Rate Note,Preishinweis,Remarque sur les taux,Nota de tarifa,ملاحظة معدل,Примечание по тарифам
+RatePercent,Rate %,Rate %,Rate %,Taux %,Tasa %,معدل ٪,Ставка %
+RateSource,Rate Source,Rate Source,Preisquelle,Source du taux,Fuente de tarifa,مصدر المعدل,Источник ставок
+RateType,Rate Type,Rate Type,Tarifart,Type de taux,Tipo de cambio,نوع معدل,Тип тарифа
+RatingDescription,Desciption,Desciption,Beschreibung,Description,Descripción,وصف,Описание
+RatingDetails,Rating Details,Rating Details,Bewertungsdetails,Détails de la notation,Detalles de calificación,تفاصيل التقييم,Детали рейтинга
+RatingGenID,Gen ID,Gen ID,Gen-ID,ID de génération,ID de generación,معرف الجنرال,Идентификатор поколения
+RatingLines,Rating Lines,Rating Lines,Bewertungslinien,Lignes de notation,Líneas de calificación,خطوط التقييم,Рейтинговые линии
+ResponsibleParticipant,Responsible Participant,Responsible Participant,Verantwortlicher Teilnehmer,Participant responsable,Participante responsable,المشارك المسؤول,Ответственный участник
+SLAC,SLAC,SLAC,SLAC,SLAC,SLAC,سلاك,СЛАК
+Service,Service,Service,Service,Service,Servicio,خدمة,Услуга
+Subcode,subcode,subcode,Subcode,sous-code,subcódigo,رمز فرعي,субкод
+Time,Time,Time,Zeit,Temps,Tiempo,وقت,Время
+TimeIndicator,Tire Indicator,Tire Indicator,Reifenanzeige,Indicateur de pneu,Indicador de neumáticos,مؤشر الإطارات,Индикатор шин
+Type,Type,Type,Typ,Taper,Tipo,يكتب,Тип
+ULDIDs,ULD IDs,ULD IDs,ULD-IDs,Identifiants ULD,ID de ULD,معرفات ULD,ULD-идентификаторы
+ULDType,ULD Type,ULD Type,ULD-Typ,Type ULD,Tipo ULD,نوع يو إل دي,Тип УЛД
+UnitOfWeight,Unit of Weight,Unit of Weight,Gewichtseinheit,Unité de poids,Unidad de peso,وحدة الوزن,Единица веса
+Volume,Volume,Volume,Volumen,Volume,Volumen,مقدار,Объем
+VolumeEvaluationMethod,Volume Evaluation Method,Volume Evaluation Method,Methode zur Volumenbewertung,Méthode d'évaluation du volume,Método de evaluación de volumen,طريقة تقييم الحجم,Метод оценки объема
+VolumeUnit,Volume Unit,Volume Unit,Volumeneinheit,Unité de volume,Unidad de volumen,وحدة الحجم,Единица объема
+Cancel,Cancel,Cancel,Stornieren,Annuler,Cancelar,يلغي,Отмена
+InvoiceNumber,Invoice Nurber,Invoice Nurber,Rechnungsnummer,Numéro de facture,Número de factura,رقم الفاتورة',Счет-фактура Нурбер
+PaymentReceiptsandInvoices,Payment Receipts and Invoices,Payment Receipts and Invoices,Zahlungsbelege und Rechnungen,Reçus de paiement et factures,Recibos de pago y facturas,إيصالات الدفع والفواتير,Квитанции об оплате и счета-фактуры
+Print,Print,Print,Drucken,Imprimer,Imprimir,مطبعة,Распечатать
+PrintDocument,Print Docurent,Print Docurent,Dokument drucken,Imprimer le document,Imprimir documento,طباعة وثيقة,Распечатать документ
+ReceiptNumber,Receipt Nurber,Receipt Nurber,Empfangsbestätigung,Numéro de reçu,Número de recibo,استلام نوربر,Квитанция Нурбер
+print_CGST,CGST,CGST,CGST,CGST,CGST,CGST,НДС
+print_IGST,IGST,IGST,IGST,IGST,IGST,IGST,ИГСТ
+print_SGST,SGST,SGST,SGST,SGST,SGST,SGST,СГСТ
+print_balance,BALANCE,BALANCE,GLEICHGEWICHT,ÉQUILIBRE,BALANCE,توازن,БАЛАНС
+print_bnk_acc,Bank accounts :< BR>,Bank accounts :< BR>,Bankkonten :< BR>,Comptes bancaires :< BR>,Cuentas bancarias :< BR>,الحسابات البنكية:<BR>,Банковские счета:< BR>
+print_chrg_coll_fee,Charges Collect Fee,Charges Collect Fee,Gebührenerhebungsgebühr,Frais de collecte des frais,Tarifa de cobro de cargos,رسوم تحصيل الرسوم,Плата за сбор
+print_clearAutohd,CLEARANCE<BR>AUTHORITY,CLEARANCE<BR>AUTHORITY,FREIGABE<BR>BEHÖRDE,AUTORITÉ DE DÉGAGEMENT<BR>,AUTORIDAD<BR>LIQUIDACIÓN,سلطة التخليص<BR>,РАЗРЕШЕНИЕ<BR>ОРГАН
+print_countrycurr,Country Currency:,Country Currency:,Landeswährung:',Devise du pays : ',Moneda del país:',عملة البلد:',Валюта страны:'
+print_enclosure,Enclosures:,Enclosures:,Anlagen:,Boîtiers :,Cerramientos:,حاويات:,Корпуса:
+print_exchng_rate,Exchange Rate Used,Exchange Rate Used,Verwendeter Wechselkurs,Taux de change utilisé,Tipo de cambio utilizado,سعر الصرف المستخدم,Используемый обменный курс
+print_invoice_cnt,Kindly note above Invoice no. and reference in all correspondence and when effecting payment.,Kindly note above Invoice no. and reference in all correspondence and when effecting payment.,Bitte vermerken Sie oben die Rechnungsnr. und Referenz in der gesamten Korrespondenz und bei der Ausführung der Zahlung.,Veuillez noter ci-dessus le numéro de facture. et référence dans toute correspondance et lors du paiement.,Tenga en cuenta la factura anterior no. y referencia en toda la correspondencia y al efectuar el pago.,يرجى ملاحظة رقم الفاتورة أعلاه. والمرجع في جميع المراسلات وعند إجراء الدفع.,"Обратите внимание, что указанный выше номер счета-фактуры. и ссылки во всей переписке и при осуществлении оплаты."
+print_invoice_no,Invoice No.,Invoice No.,Rechnungsnr.,Numéro de facture,Factura no.,رقم الفاتورة.,Номер счета
+print_invoices,Invoices,Invoices,Rechnungen,Factures,Facturas,الفواتير,Счета-фактуры
+print_org_curr,Origin Currency,Origin Currency,Ursprungswährung,Devise d'origine,Moneda de origen,العملة الأصلية,Исходная валюта
+print_oth_chrg_due_agnt,other Charges Due Agent,other Charges Due Agent,Sonstige Gebühren fälliger Agent,Agent dû pour les autres charges,otros cargos adeudados al agente,الرسوم الأخرى المستحقة للوكيل,Агент по уплате других сборов
+print_oth_chrg_due_carr,other Charges Due Carrier,other Charges Due Carrier,sonstige fällige Gebühren des Spediteurs,autres frais dus Transporteur,otros cargos adeudados al transportista,الرسوم الأخرى المستحقة للناقل,"другие сборы, причитающиеся перевозчику"
+print_othcharge,Other Charges,Other Charges,Zusatzgebühren,Autres charges,Otros cargos,رسوم أخرى,Другие расходы
+print_our_ref,Our Ref:,Our Ref:,Unsere Ref:,Notre réf:,Nuestra referencia:,مرجعنا:,Наша ссылка:
+print_payment_due,Payment Due,Payment Due,Zahlung fällig,Paiement dû,Fecha de pago,استحقاق الدفع,Заплатить до
+print_payments,Paynent,Paynent,Paynent,Paiement,pago,باينينت,Пейнент
+print_prev_payments,Previous Payrents,Previous Payrents,Frühere Zahlungen,Loyers précédents,Pagos anteriores,الدائنون السابقون,Предыдущие платежи
+print_receipt_cnt,Kindly note above Receipt no. and reference in all correspondence.,Kindly note above Receipt no. and reference in all correspondence.,Bitte vermerken Sie oben die Quittungsnr. und Referenz in der gesamten Korrespondenz.,Veuillez noter ci-dessus le numéro de reçu. et référence dans toute correspondance.,Tenga en cuenta el recibo anterior no. y referencia en toda la correspondencia.,يرجى ملاحظة رقم الإيصال أعلاه. والمرجع في جميع المراسلات.,"Пожалуйста, обратите внимание на номер квитанции выше. и ссылки во всей переписке."
+print_receipt_no,Receipt No.,Receipt No.,Quittung Nr.,Numéro de reçu,Recibo No.,رقم الإيصال.,Номер квитанции.
+print_ref,Reference:,Reference:,Referenz:,Référence:,Referencia:,مرجع:,Ссылка:
+print_station,Station:,Station:,Bahnhof:,Gare:,Estación:,محطة:,Станция:
+print_subtotal,Subtotal,Subtotal,Zwischensumme,Total,Total parcial,المجموع الفرعي,Промежуточный итог
+print_tax_exchng_rate,Exchange Rate:,Exchange Rate:,Tauschrate:,Taux de change:,Tipo de cambio:,سعر الصرف:,Обменный курс:
+print_tax_items,+ Taxable ItemscBR>,+ Taxable ItemscBR>,+ Steuerpflichtige PostencBR>,+ Articles taxablescBR>,+ Partidas imponiblescBR>,+ العناصر الخاضعة للضريبةscBR>,+ Налогооблагаемые объектыscBR>
+print_taxinvice,TAX INVOICE,TAX INVOICE,Steuerrechnung,FACTURE FISCALE,FACTURA FISCAL,فاتورة ضريبية,НАЛОГОВАЯ НАКЛАДНАЯ
+print_taxinvicchd,IMVOICE,IMVOICE,IMVOICE,IMVOIX,IMVOZ,IMVOICE,ИМВОЙС
+print_tot_othcharge,Total Other Charges,Total Other Charges,Gesamte sonstige Kosten,Total des autres frais,Total de otros cargos,إجمالي الرسوم الأخرى,Итого прочие расходы
+print_total,T O T A L,T O T A L,GESAMT,TOTAL,TOTAL,المجموع,ОБЩИЙ
+print_total_waivals,Total Waivals,Total Waivals,Gesamtverzicht,Total des renonciations,Exenciones totales,إجمالي التنازلات,Всего отказов
+print_total_wgt_and_valu,Total Weight & Valuation Charges,Total Weight & Valuation Charges,Gesamtgewicht und Bewertungsgebühren,Poids total et frais d'évaluation,Peso total y cargos de valoración,إجمالي الوزن ورسوم التقييم,Общий вес и стоимость оценки
+print_val_chrg,Valuation Charge,Valuation Charge,Bewertungsgebühr,Frais d'évaluation,Cargo de valoración,رسوم التقييم,Плата за оценку
+print_waivals,Waivals,Waivals,Verzicht,Renonciations,renuncias,التنازلات,Отказы
+print_wght_chrg,Weight Charge,Weight Charge,Gewichtszuschlag,Charge de poids,Carga de peso,تهمة الوزن,Плата за вес
+print_wgt_and_valu,Weight & Valuation Charges,Weight & Valuation Charges,Gewichts- und Bewertungsgebühren,Frais de poids et d'évaluation,Cargos de peso y valoración,رسوم الوزن والتقييم,Вес и стоимость оценки
+title_title_Tax_invoice,Tax Invoice Print,Tax Invoice Print,Steuerrechnung drucken,Impression de facture fiscale,Impresión de factura de impuestos,طباعة الفاتورة الضريبية,Печать налоговой накладной
+title_title_invoice,Invoice Print,Invoice Print,Rechnungsdruck,Impression de facture,Impresión de factura,طباعة الفاتورة,Печать счета
+title_title_receipt,Receipt Print,Receipt Print,Quittungsdruck,Impression du reçu,Impresión de recibo,طباعة الإيصال,Распечатать квитанцию
+Charge,Charge,Charge,Aufladung,Charge,Cargar,تكلفة,Заряжать
+ChargeableWeight,Chargeable Weight,Chargeable Weight,Aufladbares Gewicht,Poids taxable,Peso tarifado,الوزن القابل للشحن,Оплачиваемый вес
+Commodity,Commodity,Commodity,Ware,Marchandise,Producto,سلعة,Товар
+Continue,Continuc,Continuc,Fortsetzung,Continuer,continuo,مستمر,Продолжить
+CurrencyCode,Currency Code,Currency Code,Währungscode,Code de devise,Código de moneda,رمز العملة,Код валюты
+GrossWeight,Gross Weight,Gross Weight,Bruttogewicht,Poids brut,Peso bruto,الوزن الإجمالي,Вес брутто
+Nuber,Contract Nurber,Contract Nurber,Vertragsnummer,Numéro de contrat,Número de contrato,رقم العقد,Контракт Нурбер
+ParticipantType,Participant Type,Participant Type,Teilnehmertyp,Type de participant,Tipo de participante,نوع المشارك,Тип участника
+Rate,Rate,Rate,Rate,Taux,Tasa,معدل,Ставка
+RateClass,Rate Class,Rate Class,Tarifklasse,Classe tarifaire,Clase de tarifa,فئة المعدل,Класс тарифа
+RateSource,Rate Source,Rate Source,Preisquelle,Source du taux,Fuente de tarifa,مصدر المعدل,Источник ставок
+RateType,Rate Type,Rate Type,Tarifart,Type de taux,Tipo de cambio,نوع معدل,Тип тарифа
+RatingLine,Rating Line,Rating Line,Bewertungslinie,Ligne de notation,Línea de calificación,خط التقييم,Рейтинговая линия
+Reject,Reject,Reject,Ablehnen,Rejeter,Rechazar,يرفض,Отклонять
+ULDType,ULD Type,ULD Type,ULD-Typ,Type ULD,Tipo ULD,نوع يو إل دي,Тип УЛД
+Weight,Weight,Weight,Gewicht,Poids,Peso,وزن,Масса
+WeightUnit,Weight Unit,Weight Unit,Gewichtseinheit,Unité de poids,Unidad de peso,وحدة الوزن,Весовая единица
+title,Select Rate Note,Select Rate Note,Wählen Sie „Notiz bewerten“.,Sélectionnez le taux Remarque,Seleccionar nota de tarifa,حدد ملاحظة السعر,Выберите тарифное примечание
+1_I_IAC_validateManually,IAC,IAC,IAC,IAC,CAI,IAC,МАК
+1 L Live Animal_UnknownShipper,Animals with Kennels/packages that can be visually inspected.,Animals with Kennels/packages that can be visually inspected.,"Tiere mit Zwingern/Verpackungen, die visuell überprüft werden können.",Animaux avec des chenils/colis pouvant être inspectés visuellement.,Animales con jaulas/paquetes que puedan ser inspeccionados visualmente.,الحيوانات ذات بيوت الكلاب/الطرود التي يمكن فحصها بصريًا.,"Животные с вольерами/упаковками, которые можно визуально осмотреть."
+1_5_Known Shipper_KnownShipper,Abbreviation,Abbreviation,Abkürzung,Abréviation,Abreviatura,اختصار,Сокращение
+2_0_Below 160Z_UnknownShipper,Shipment less than sixteen ounce.,Shipment less than sixteen ounce.,Sendung weniger als 16 Unzen.,Expédition de moins de seize onces.,Envío de menos de dieciséis onzas.,شحنة أقل من ستة عشر أوقية.,Отгрузка менее шестнадцати унций.
+2_P_Comat_validateManually,COMAT,COMAT,COMAT,COMAT,COMA,كومات,КОМАТ
+2_5_Known Shipper_KnownShipper,Minor spelling,Minor spelling,Kleinere Rechtschreibung,Orthographe mineure',Ortografía menor',"تهجئة بسيطة""",Незначительное правописание'
+3_C_Air Carrier_validateManually,Air Carrier,Air Carrier,Luftfahrtunternehmen,Transporteur aérien,Transportador aéreo,ناقل جوي,Авиакомпания
+3_M_Medical_UnknownShipper,Eligible medical items and section 3 of U.S. security form corpleted.,Eligible medical items and section 3 of U.S. security form corpleted.,Berechtigte medizinische Artikel und Abschnitt 3 des US-Sicherheitsformulars ausgefüllt.,Articles médicaux éligibles et section 3 du formulaire de sécurité américain rempli.,Artículos médicos elegibles y sección 3 del formulario de seguridad de EE. UU. completados.,العناصر الطبية المؤهلة والقسم 3 من نموذج الأمان الأمريكي مكتمل.,Соответствующие медицинские изделия и раздел 3 формы безопасности США заполнены.
+3_5_Known Shipper_KnownShipper,Punctuation,Punctuation,Interpunktion,Ponctuation,Puntuación,علامات ترقيم,Пунктуация
+4_5_Known Shipper_validateManually,Known Shipper,Known Shipper,Bekannter Versender,Expéditeur connu,Transportista conocido,الشاحن المعروف,Известный отправитель
+4_U_Live Animal_UnknownShipper,Animals cannot be visually inspected and section 3 of U.S. security form corpleted.,Animals cannot be visually inspected and section 3 of U.S. security form corpleted.,Tiere können nicht visuell inspiziert werden und Abschnitt 3 des US-Sicherheitsformulars kann nicht ausgefüllt werden.,Les animaux ne peuvent pas être inspectés visuellement et la section 3 du formulaire de sécurité américain est remplie.,Los animales no pueden inspeccionarse visualmente ni completarse la sección 3 del formulario de seguridad de EE. UU.,لا يمكن فحص الحيوانات بصريًا ويتم استكمال القسم 3 من نموذج الأمان الأمريكي.,"Животные не подлежат визуальному осмотру, а раздел 3 формы безопасности США заполнен."
+4_W_Known Shipper_KnownShipper,Future Option1,Future Option1,Zukünftige Option1,Option future1,Opción futura1,الخيار المستقبلي1,Будущий вариант 1
+5_R_Future Option_UnknownShipper,Future Option,Future Option,Zukunftsoption,Option future,Opción futura,خيار المستقبل,Будущий вариант
+5_X_Known Shipper_KnownShipper,Future Option2,Future Option2,Zukünftige Option2,Option future2,Opción futura2,خيار المستقبل2,Будущий вариант 2
+5_Z_Unknown Shipper_validateManually,Unknown Shipper,Unknown Shipper,„Unbekannter Versender“,Expéditeur inconnu',Remitente desconocido,الشاحن غير معروف,Неизвестный отправитель
+6_G_Government Agency_validateManually,Government Agency,Government Agency,Regierungsbehörde,Organisme gouvernemental,Agencia del gobierno,وكالة حكومية,Государственное агентство
+6_T_Future Option2_UnknownShipper,Future Option2,Future Option2,Zukünftige Option2,Option future2,Opción futura2,خيار المستقبل2,Будущий вариант 2
+6_Y_Known Shipper_KnownShipper,Future Option3,Future Option3,Zukünftige Option3,Option future3,Opción futura3,خيار المستقبل3,Будущий вариант 3
+7_D_Diplomatic_validateManually,Diplomatic,Diplomatic,Diplomatisch,Diplomatique,Diplomático,دبلوماسي,Дипломатический
+7_V_Future Option3_UnknownShipper,Future Option3,Future Option3,Zukünftige Option3,Option future3,Opción futura3,خيار المستقبل3,Будущий вариант 3
+8_N_Interline_validateManually,Interline,Interline,Interline,Interligne,Interlínea,بين الخط,Интерлайн
+9_E_Employee_validateManually,Employee,Employee,Mitarbeiter,Employé,Empleado,موظف,Сотрудник
+18_B_Future Option_validateManually,Future Option,Future Option,Zukunftsoption,Option future,Opción futura,خيار المستقبل,Будущий вариант
+11_F_Future Option1_validateManually,Future Option1,Future Option1,Zukünftige Option1,Option future1,Opción futura1,الخيار المستقبلي1,Будущий вариант 1
+12_H_Future Option3_validateManually,Future Option3,Future Option3,Zukünftige Option3,Option future3,Opción futura3,خيار المستقبل3,Будущий вариант 3
+ExpirationDate,Expiration Date,Expiration Date,Verfallsdatum,Date d'expiration,Fecha de caducidad,تاريخ انتهاء الصلاحية,Дата окончания срока
+IacList,Validate IAC List.,Validate IAC List.,IAC-Liste validieren.,Validez la liste IAC.,Validar lista IAC.,التحقق من صحة قائمة IAC.,Подтвердить список IAC.
+IacNumber,IAC Nurber,IAC Nurber,IAC Nürber,Numéro IAC,Número IAC,اي ايه سي نوربر,МАК Нюрбер
+Naks,please perform manual review and corplete section 3 of the U.S security for.,please perform manual review and corplete section 3 of the U.S security for.,Bitte führen Sie eine manuelle Überprüfung durch und vervollständigen Sie Abschnitt 3 der US-Sicherheitsbestimmungen für.,veuillez effectuer un examen manuel et compléter la section 3 de la sécurité américaine pour.,realice una revisión manual y complete la sección 3 de la seguridad de EE. UU. para.,يرجى إجراء مراجعة يدوية وإكمال القسم 3 من الأمان الأمريكي لـ.,"пожалуйста, выполните ручную проверку и заполните раздел 3 безопасности США для."
+PopupHeader,Validate the Known Shipper,Validate the Known Shipper,Validieren Sie den bekannten Versender,Valider l'expéditeur connu,Validar el remitente conocido,التحقق من صحة الشاحن المعروف,Подтвердите известного грузоотправителя
+ValidateAirCarrier,Validate Air Carrier List,Validate Air Carrier List,Validieren Sie die Liste der Fluggesellschaften,Valider la liste des transporteurs aériens,Validar lista de compañías aéreas,التحقق من صحة قائمة الناقلات الجوية,Проверка списка авиаперевозчиков
+ValidateEmployee,Validate Employce,Validate Employce,Beschäftigung validieren,Valider l'emploi,Validar Empleo,التحقق من صحة التوظيف,Подтвердить трудоустройство
+ValidateEmployecDetails,More than one year of service and employce of Delta or wholly or own subsidiary,More than one year of service and employce of Delta or wholly or own subsidiary,Mehr als ein Jahr Betriebszugehörigkeit und Anstellung bei Delta oder einer vollständigen oder eigenen Tochtergesellschaft,Plus d'un an de service et d'emploi chez Delta ou dans sa propre filiale,Más de un año de servicio y empleo de Delta o de su propia subsidiaria,أكثر من عام من الخدمة والتوظيف في شركة دلتا أو الشركة التابعة لها كليًا أو خاصًا بها,Более одного года работы в компании Delta или полностью или в собственной дочерней компании.
+ValidateKnownShipper,Validate Known Shipper Manually.,Validate Known Shipper Manually.,Bekannten Versender manuell validieren.,Validez manuellement l’expéditeur connu.,Validar el remitente conocido manualmente.,التحقق من صحة الشاحن المعروف يدويًا.,Проверьте известного грузоотправителя вручную.
+ValidateManually,Known Shipper Type,Known Shipper Type,Bekannter Versendertyp,Type d'expéditeur connu,Tipo de remitente conocido,نوع الشاحن المعروف,Известный тип отправителя
+ValidateManuallyCheckbox,Validate Manually,Validate Manually,Manuell überprüfen,Valider manuellement,Validar manualmente,التحقق من صحة يدويا,Подтвердить вручную
+ValidateNaks,Validate NAKS,Validate NAKS,Validieren Sie NAKS,Valider NAKS,Validar NAKS,التحقق من صحة NAKS,Подтвердить НАКС
+ValidateUnknownShipper,Validate Unknown Shipper,Validate Unknown Shipper,Unbekannten Versender validieren,Valider l'expéditeur inconnu,Validar remitente desconocido,التحقق من صحة الشاحن غير المعروف,Подтвердить неизвестного отправителя
+action_action_lbl,Action,Action,Aktion,Action,Acción,فعل,Действие
+action_chkvaltd_lbl,House Air Waybills Validated,House Air Waybills Validated,Hausluftfrachtbriefe validiert,Lettres de transport aérien domestique validées,Cartas de porte aéreo internas validadas,تم التحقق من صحة بوليصة الشحن الجوي للمنزل,Домашние авианакладные подтверждены
+action_create_btn_lbl,Create,Create,Erstellen,Créer,Crear,يخلق,Создавать
+action_delete_btn_lbl,Delete,Delete,Löschen,Supprimer,Borrar,يمسح,Удалить
+action_process_btn_lbl,PROCESS,PROCESS,VERFAHREN,PROCESSUS,PROCESO,عملية,ПРОЦЕСС
+action_reactivate_btn_lbl,Reactivate,Reactivate,Reaktivieren,Réactiver,Reactivar,اعادة تفعيل,Повторно активировать
+action_reset_btn_lbl,Reset,Reset,Zurücksetzen,Réinitialiser,Reiniciar,إعادة ضبط,Перезагрузить
+action_title_lbl,Action,Action,Aktion,Action,Acción,فعل,Действие
+action_update_btn_lbl,Update,Update,Aktualisieren,Mise à jour,Actualizar,تحديث,Обновлять
+air_waybill_un_warning_lbl,Warning,Warning,Warnung,Avertissement,Advertencia,تحذير,Предупреждение
+air_waybill_un_warntxt_lbl,Click CREATE / LPDATE to permanently save changes in UN/ULD nurbers/HTS Codes.,Click CREATE / LPDATE to permanently save changes in UN/ULD nurbers/HTS Codes.,"Klicken Sie auf ERSTELLEN/LPDATE, um Änderungen in UN/ULD-Nummern/HTS-Codes dauerhaft zu speichern.",Cliquez sur CRÉER / LPDATE pour enregistrer définitivement les modifications dans les numéros UN/ULD/codes HTS.,Haga clic en CREAR / LPDATE para guardar permanentemente los cambios en los números UN/ULD/códigos HTS.,"انقر فوق ""إنشاء / LPDATE"" لحفظ التغييرات بشكل دائم في أرقام UN/ULD/رموز HTS.","Нажмите CREATE / LPDATE, чтобы навсегда сохранить изменения в номерах UN/ULD/кодах HTS."
+awb_Notify_Date_lbl,Notify Date,Notify Date,Datum benachrichtigen,Date de notification,Notificar fecha,تاريخ الإخطار,Дата уведомления
+awb_Notify_Time_lbl,Notify Time,Notify Time,Uhrzeit benachrichtigen,Notifier l'heure,Notificar hora,إخطار الوقت,Уведомить время
+awb_air_waybill_lbl,House<BR>Air WayBill,House<BR>Air WayBill,Haus<BR>Luftfrachtbrief,Maison<BR>Air WayBill,Casa<BR>Guía de porte aéreo,منزل<BR>بوليصة الشحن الجوي,Дом<BR>Авианакладная
+awb_consignee_telephone_lbl,Consignee Telephone,Consignee Telephone,Empfängertelefon,Téléphone du destinataire,Teléfono del destinatario,هاتف المرسل إليه,Телефон грузополучателя
+awb_cross_reference_1_lbl,Cross reference 1,Cross reference 1,Querverweis 1,Référence croisée 1,Referencia cruzada 1,المرجع الترافقي 1,Перекрестная ссылка 1
+awb_cross_reference_2_lbl,Cross reference 2,Cross reference 2,Querverweis 2,Référence croisée 2,Referencia cruzada 2,المرجع الترافقي 2,Перекрестная ссылка 2
+awb_cuit_lbl,Unique Tax Identification Code (CUIT),Unique Tax Identification Code (CUIT),Eindeutiger Steueridentifikationscode (CUIT),Code d'identification fiscale unique (CUIT),Clave Única de Identificación Tributaria (CUIT),رمز التعريف الضريبي الفريد (CUIT),Уникальный идентификационный код налогоплательщика (CUIT)
+awb_customs_station_lbl,Customs station,Customs station,Zollstation,Poste de douane,estación de aduanas,محطة جمركية,Таможенный пост
+awb_customs_value_lbl,Customs Value,Customs Value,Zollwert,Valeur en douane,Valor en Aduana,القيمة الجمركية,Таможенная стоимость
+awb_declared_value_lbl,Declared Value,Declared Value,Angegebener Wert,Valeur déclarée,Valor declarado,القيمة المعلنة,Объявленная стоимость
+awb_dest_currency_lbl,Dest Currency,Dest Currency,Zielwährung,Devise de destination,Moneda de destino,العملة المقصودة,Валюта назначения
+awb_destination_lbl,Destination,Destination,Ziel,Destination,Destino,وجهة,Место назначения
+awb_exec_date_lbl,Execution date,Execution date,Ausführungsdatum,Date d'éxecution,Fecha de ejecución,تاريخ التنفيذ,Дата исполнения
+awb_export_payment_code_lbl,Export payment code,Export payment code,Zahlungscode exportieren,Exporter le code de paiement,Código de pago de exportación,تصدير رمز الدفع,Экспортировать код платежа
+awb_house_renarks_1_lbl,Consignee,Consignee,Empfänger,Destinataire,Consignatario,المرسل إليه,Грузополучатель
+awb_house_renarks_2_lbl,Also Notify,Also Notify,Auch benachrichtigen,Avertir également,También notifica,أيضا بإخطار,Также уведомить
+awb_hts_codes_lbl,HTS Codes,HTS Codes,HTS-Codes,Codes HTS,Códigos HTS,رموز HTS,HTS-коды
+awb_import_payment_code_lbl,Import payment code,Import payment code,Zahlungscode importieren,Importer le code de paiement,Importar código de pago,استيراد رمز الدفع,Импортировать код платежа
+awb_inbond_lbl,Inbond,Inbond,Inbond,En lien,Enlazados,ضمن الرابطه,В связи
+awb_insurance_value_code_lbl,Insurance Value & Code,Insurance Value & Code,Versicherungswert und Code,Valeur et code d'assurance,Valor y código del seguro,قيمة التأمين والرمز,Страховая стоимость и код
+awb_1b_lbl,LB,LB,PFUND,KG,libra,رطل,ФУНТ
+awb_no_lbl,No,No,NEIN,Non,No,لا,Нет
+awb_org_as_fhl_lbl,Originated as FHL,Originated as FHL,Entstanden als FHL,Originaire de FHL,Originado como FHL,نشأت باسم FHL,Создан как FHL
+awb_ori_currency_lbl,Orig Currency,Orig Currency,Originalwährung,Devise d'origine,Moneda original,العملة الأصلية,Исходная валюта
+awb_origin_lbl,origin,origin,Herkunft,origine,origen,أصل,источник
+awb_special_handling_codes_lbl,special Handling Codes,special Handling Codes,spezielle Handhabungscodes,Codes de traitement spéciaux,Códigos de manejo especiales,رموز التعامل الخاصة,специальные коды обработки
+awb_un_numbers_lbl,UN Nurbers,UN Nurbers,UN-Nürber,Numéros des Nations Unies,Números de la ONU,نوربيرز الأمم المتحدة,ООН Нурберс
+awb_unit_of_weight_lbl,Unit of Weight,Unit of Weight,Gewichtseinheit,Unité de poids,Unidad de peso,وحدة الوزن,Единица веса
+awb_update_date_lbl,Update Date,Update Date,Aktualisierungsdatum,Date de mise à jour,Fecha de actualización,تاريخ التحديث,Дата обновления
+awb_update_time_lbl,Update Time,Update Time,Updatezeit,Temps de mise à jour,Tiempo de actualizacion,تحديث الوقت,Время обновления
+awb_yes_lbl,Yes,Yes,Ja,Oui,Sí,نعم,Да
+cancel_lbl,Cancel,Cancel,Stornieren,Annuler,Cancelar,يلغي,Отмена
+confirm_lbl,Confirm,Confirm,Bestätigen,Confirmer,Confirmar,يتأكد,Подтверждать
+create_header_lbl,Create a New House Air Waybill,Create a New House Air Waybill,Erstellen Sie einen neuen Hausluftfrachtbrief,Créer une nouvelle lettre de transport aérien domestique,Crear una nueva guía aérea interna,إنشاء بوليصة شحن جوي جديدة للمنزل,Создайте новую домашнюю авианакладную
+customs_ctc_lbl,Customs Contact Information,Customs Contact Information,Kontaktinformationen des Zolls,Coordonnées des douanes,Información de contacto de aduanas,معلومات الاتصال الجمركية,Контактная информация таможни
+details_chargeable_weight_lbl,Chargeable Weight,Chargeable Weight,Aufladbares Gewicht,Poids taxable,Peso tarifado,الوزن القابل للشحن,Оплачиваемый вес
+details_del_lbl,Del,Del,Del,Del,Del,ديل,Дель
+details_description_lbl,Description,Description,Beschreibung,Description,Descripción,وصف,Описание
+details_gross_weight_lbl,Gross Weight,Gross Weight,Bruttogewicht,Poids brut,Peso bruto,الوزن الإجمالي,Вес брутто
+details_hsegoods_exist_lbl,Exist,Exist,Existieren,Exister,Existir,يخرج,Существовать
+details_hsegoods_noexist_lbl,Do Not Exist,Do Not Exist,Existiert nicht,N'existe pas,No existe,لا وجود لها,Не существует
+details_pieces_lbl,pieces,pieces,Stücke,pièces,piezas,قِطَع,куски
+details_rate_lbl,Rate,Rate,Rate,Taux,Tasa,معدل,Ставка
+details_rating_details_lbl,Rating Details,Rating Details,Bewertungsdetails,Détails de la notation,Detalles de calificación,تفاصيل التقييم,Детали рейтинга
+hawb_sub_house_lbl,sub House,sub House,Unterhaus,sous-maison,subcasa,البيت الفرعي,поддом
+house_awb_retain_lbl,Retain,Retain,Zurückbehalten,Retenir,Retener,يحتفظ,Удерживать
+house_identifier_lbl,House Identifier,House Identifier,Hauskennung,Identifiant de la maison,Identificador de casa,معرف المنزل,Идентификатор дома
+house_list_coment_lbl,To sort click on table headings.,To sort click on table headings.,Zum Sortieren klicken Sie auf die Tabellenüberschriften.,"Pour trier, cliquez sur les titres des tableaux.","Para ordenar, haga clic en los encabezados de las tablas.",للفرز انقر على عناوين الجدول.,Для сортировки кликните по заголовкам таблиц.
+house_list_consignee_lbl,Consignce,Consignce,Sendung,Consignation,consignación,شحنة,Отправка
+house_list_dest_lbl,Destination,Destination,Ziel,Destination,Destino,وجهة,Место назначения
+house_list_house_id_lbl,House ID,House ID,Haus-ID,ID de la maison,Identificación de la casa,معرف المنزل,Идентификатор дома
+house_list_housegoods_lbl,House Goods,House Goods,Haushaltswaren,Articles de maison,Bienes de la casa,السلع المنزلية,Товары для дома
+house_list_origin_lbl,Origin,Origin,Herkunft,Origine,Origen,أصل,Источник
+house_list_pieces_lbl,Pieces,Pieces,Stücke',Pièces',Piezas',قِطَع',Куски'
+house_list_title_lbl,Details,Details,Einzelheiten,Détails,Detalles,تفاصيل,Подробности
+house_list_weight_lbl,Weight,Weight,Gewicht,Poids,Peso,وزن,Масса
+housegoods_Weight_lbl,House Weight,House Weight,Hausgewicht,Poids de la maison,Peso de la casa,وزن المنزل,Вес дома
+housegoods_awb_pieces_lbl,ANB Pieces,ANB Pieces,ANB-Stücke,Pièces ANB,Piezas ANB,قطع البنك العربي الوطني,АНБ Части
+housegoods_awb_slac_lbl,ANB SLAC,ANB SLAC,ANB SLAC,ANB SLAC,ANB SLAC,ايه ان بي سلاك,АНБ СЛАК
+housegoods_awb_weight_lbl,ANB Weight,ANB Weight,ANB-Gewicht,Poids ANB,Peso ANB,وزن ايه ان بي,АНБ Вес
+housegoods_count_lbl,House Count,House Count,Hausgraf,Nombre de maisons,Recuento de casas,عد البيت,Количество домов
+housegoods_details_awb_lbl,Air Waybill,Air Waybill,Luftfrachtbrief,Lettre de transport aérien,Carta de porte aéreo,بوليصة الشحن الجوي,Авианакладная
+housegoods_hawbtotslac_lbl,House SLAC,House SLAC,Haus SLAC,Maison SLAC,Casa SLAC,منزل سلاك,Дом СЛАК
+housegoods_pieces_lbl,House Pieces,House Pieces,Hausstücke,Pièces de maison,Piezas de la casa,قطع البيت,Части Дома
+housegoods_total_lbl,House Air Waybill Totals:,House Air Waybill Totals:,Gesamtsummen des Hausluftfrachtbriefs:,Totaux de la lettre de transport aérien domestique :,Totales de la guía aérea interna:,إجمالي بوليصة الشحن الجوي للمنزل:,Общая стоимость авианакладной дома:
+housegoods_totals_lbl,House Air Waybill Totals,House Air Waybill Totals,Gesamtsummen der Luftfrachtbriefe des Hauses,Totaux des lettres de transport aérien domestique,Totales de la guía aérea interna,إجمالي بوليصة الشحن الجوي للمنزل,Общая сумма авианакладных дома
+housewaybill_cust_screeing_status_lbl,Customs Screening Status & Details,Customs Screening Status & Details,Status und Details der Zollkontrolle,Statut et détails du contrôle douanier,Estado y detalles del control de aduanas,حالة الفحص الجمركي والتفاصيل,Статус и подробности таможенного досмотра
+new_house_lbl,Enter a house air waybill identifier to create a new house.,Enter a house air waybill identifier to create a new house.,"Geben Sie eine Haus-Luftfrachtbrief-ID ein, um ein neues Haus zu erstellen.",Entrez un identifiant de lettre de transport aérien pour créer une nouvelle maison.,Ingrese un identificador de guía aérea de la casa para crear una nueva casa.,أدخل معرف بوليصة الشحن الجوي للمنزل لإنشاء منزل جديد.,"Введите идентификатор домашней авианакладной, чтобы создать новый дом."
+other_amount_lbl,Anount,Anount,Anount,Quantité,Antón,العمة,Анаунт
+other_charge_code_lbl,Charge Code,Charge Code,Gebührencode,Code de facturation,Código de carga,رمز الشحن,Код оплаты
+ather_charges_resp_part_lbl,Responsible Participant,Responsible Participant,Verantwortlicher Teilnehmer,Participant responsable,Participante responsable,المشارك المسؤول,Ответственный участник
+other_charges_type_lbl,Type,Type,Typ,Taper,Tipo,يكتب,Тип
+other_del_lbl,Del,Del,Del,Del,Del,ديل,Дель
+other_description_lbl,Description,Description,Beschreibung,Description,Descripción,وصف,Описание
+other_due_1b1,Due,Due,Fällig,Exigible,Pendiente,حق,Должный
+other_genid_lbl,Genid,Genid,Genid,Génide,genio,جينيد,Генид
+other_other_charges_lbl,other Charges,other Charges,Zusatzgebühren,autres charges,otros cargos,رسوم أخرى,другие расходы
+other_paycode_lbl,Paycode,Paycode,Zahlungscode,Code de paie,Código de pago,رمز الدفع,Платежный код
+ather_subcode_1b1,subcode,subcode,Subcode,sous-code,subcódigo,رمز فرعي,субкод
+other_time_lbl,Tine,Tine,Zinke,Dent,Púa,طينة,зубец
+participant_retain_lbl,Retain,Retain,Zurückbehalten,Retenir,Retener,يحتفظ,Удерживать
+participants_account_lbl,Account,Account,Konto,Compte,Cuenta,حساب,Счет
+participants_address_lbl,Address,Address,Adresse,Adresse,DIRECCIÓN,عنوان,Адрес
+participants_aconum_lbl,AED Number,AED Number,AED-Nummer,Numéro DAE,Número DEA,رقم درهم,Номер дирхама ОАЭ
+participants_city_lbl,City,City,Stadt,Ville,Ciudad,مدينة,Город
+participants_country_lbl,Country,Country,Land,Pays,País,دولة,Страна
+participants_del_lbl,Delete,Delete,Löschen,Supprimer,Borrar,يمسح,Удалить
+participants_fax_lbl,Fax,Fax,Fax,Fax,Fax,فاكس,Факс
+participants_icode_lbl,Identification Code,Identification Code,Identifikationsnummer,Code d'identification,Código de identificación,رمز التعريف,Идентификационный код
+participants_name_lbl,Nare,Nare,Nare,Naré,nare,ناري,Наре
+participants_participants_lbl,Participants,Participants,Teilnehmer,Participants,Participantes,مشاركون,Участники
+participants_personame_lbl,Contact Persons Name,Contact Persons Name,Name der Kontaktperson,Nom de la personne à contacter,Nombre de la persona de contacto,اسم جهة الاتصال,Имя контактного лица
+participants_personphnum_lbl,Contact Persons Phone Number,Contact Persons Phone Number,Telefonnummer der Kontaktperson,Numéro de téléphone de la personne à contacter,Número de teléfono de la persona de contacto,رقم هاتف جهة الاتصال,Номер телефона контактного лица
+participants_phone_lbl,Phone,Phone,Telefon,Téléphone,Teléfono,هاتف,Телефон
+participants_state_lbl,State,State,Zustand,État,Estado,ولاية,Состояние
+participants_station_lbl,station,station,Bahnhof,gare,estación,محطة,станция
+participants_type_lbl,Type,Type,Typ,Taper,Tipo,يكتب,Тип
+participants_zip_lbl,Postal Code,Postal Code,Postleitzahl,Code Postal,Código Postal,رمز بريدي,Почтовый индекс
+pat_csgn_account_lbl,Account,Account,Konto,Compte,Cuenta,حساب,Счет
+rate_details_slac_lbl,SLAC,SLAC,SLAC,SLAC,SLAC,سلاك,СЛАК
+title_house_awb_lbl,House ANB Information,House ANB Information,Informationen zum Haus ANB,Informations sur la Maison ANB,Información de la Casa ANB,معلومات البيت ANB,Информация о доме АНБ
+title_title_lbl,House AWB List,House AWB List,Haus-AWB-Liste,Liste AWB de la maison,Lista AWB de la casa,قائمة AWB للمنزل,Список домов AWB
+total_col_charges_lbl,COL charges,COL charges,COL-Gebühren,Frais de COL,cargos COL,رسوم العقيد,COL сборы
+total_dest_charges_lbl,Destination charges,Destination charges,Zielgebühren,Frais de destination,Cargos de destino,اتجاه الشحنة,Сборы за пункт назначения
+total_ppd_charges_lbl,PPD charges,PPD charges,PPD-Gebühren,Frais PPD,cargos de PPD,رسوم PPD,Сборы за PPD
+total_total_charges_lbl,Total Charges,Total Charges,Gesamte Gebühren,Charges totales,Cargos totales,الكلفة الاجماليه,Общая сумма сборов
+total_weight_charges_lbl,Weight charges,Weight charges,Gewichtsgebühren,Frais de poids,Cargos de peso,رسوم الوزن,Сборы за вес
+veiw_preferences_lbl,Preferences,Preferences,Präferenzen,Préférences,Preferencias,التفضيلات,Предпочтения
+view_air_waybill_lbl,Air Waybill,Air Waybill,Luftfrachtbrief,Lettre de transport aérien,Carta de porte aéreo,بوليصة الشحن الجوي,Авианакладная
+view_awb_lbl,Air Waybill,Air Waybill,Luftfrachtbrief,Lettre de transport aérien,Carta de porte aéreo,بوليصة الشحن الجوي,Авианакладная
+view_house_lbl,House,House,Haus,Maison,Casa,منزل,Дом
+view_retrieve_btn_lbl,Retricve,Retricve,Zurückholen,Récupérer,retraer,استرجاع,Ретрикв
+view_title_lbl,view,view,Sicht,voir,vista,منظر,вид
+view_view_lbl,View,View,Sicht,Voir,Vista,منظر,Вид
+AirWaybill,Air Waybill,Air Waybill,Luftfrachtbrief,Lettre de transport aérien,Carta de porte aéreo,بوليصة الشحن الجوي,Авианакладная
+Assignment,Assignment,Assignment,Abtretung,Affectation,Asignación,تكليف,Назначение
+ContainerID,Container ID,Container ID,Container-ID,ID du conteneur,ID del contenedor,معرف الحاوية,Идентификатор контейнера
+Date,Date,Date,Datum,Date,Fecha,تاريخ,Дата
+EventStation,Event Station,Event Station,Event-Station,Station d'événements,Estación de eventos,محطة الحدث,Станция событий
+ExceptionFor,Exception For,Exception For,Ausnahme für,Exception pour,Excepción para,استثناء ل,Исключение для
+ExceptionHandlingUpdate,Exception Handling Update,Exception Handling Update,Aktualisierung der Ausnahmebehandlung,Mise à jour de la gestion des exceptions,Actualización de manejo de excepciones,تحديث معالجة الاستثناءات,Обновление обработки исключений
+Flight,Flight,Flight,Flug,Vol,Vuelo,رحلة جوية,Полет
+FlightDate,Flight Date,Flight Date,Flugdatum,Date du vol,Fecha de vuelo,تاريخ الرحلة,Дата полета
+FlightNumber,Flight Number,Flight Number,Flugnummer,Numéro de vol,Número de vuelo,رقم الرحلة الجوية,Номер рейса
+FlightOption,Flight Option,Flight Option,Flugoption,Options de vol,Opción de vuelo,خيار الطيران,Вариант полета
+Level1,Level 1,Level 1,Level 1,Niveau 1,Nivel 1,المستوى 1,1-й уровень
+Level2,Level 2,Level 2,Level 2,Niveau 2,Nivel 2,المستوي 2,Уровень 2
+Level3,Level 3,Level 3,Stufe 3,Niveau 3,Nivel 3,مستوى 3,Уровень 3
+Pieces,Pieces,Pieces,Stücke,Pièces,Piezas,قِطَع,Куски
+RecordExceptions,Record Exceptions,Record Exceptions,Ausnahmen aufzeichnen,Enregistrer les exceptions,Excepciones de registros,سجل الاستثناءات,Запись исключений
+Weight,Weight,Weight,Gewicht,Poids,Peso,وزن,Масса
+WeightUnit,Weight Unit,Weight Unit,Gewichtseinheit,Unité de poids,Unidad de peso,وحدة الوزن,Весовая единица
+Charge,Charge,Charge,Aufladung,Charge,Cargar,تكلفة,Заряжать
+ChargeableWeight,Chargeable Weight,Chargeable Weight,Aufladbares Gewicht,Poids taxable,Peso tarifado,الوزن القابل للشحن,Оплачиваемый вес
+Commodity,Commodity,Commodity,Ware,Marchandise,Producto,سلعة,Товар
+Continue,Continue,Continue,Weitermachen,Continuer,Continuar,يكمل,Продолжать
+CurrencyCode,Currency Code,Currency Code,Währungscode,Code de devise,Código de moneda,رمز العملة,Код валюты
+GrossWeight,Gross Weight,Gross Weight,Bruttogewicht,Poids brut,Peso bruto,الوزن الإجمالي,Вес брутто
+Number,Contract Number,Contract Number,Vertragsnummer,Numéro de contrat,Número de contrato,رقم التعاقد,Контактный номер
+ParticipantType,Participant Type,Participant Type,Teilnehmertyp,Type de participant,Tipo de participante,نوع المشارك,Тип участника
+Rate,Rate,Rate,Rate,Taux,Tasa,معدل,Ставка
+RateClass,Rate Class,Rate Class,Tarifklasse,Classe tarifaire,Clase de tarifa,فئة المعدل,Класс тарифа
+RateSource,Rate Source,Rate Source,Preisquelle,Source du taux,Fuente de tarifa,مصدر المعدل,Источник ставок
+RateType,Rate Type,Rate Type,Tarifart,Type de taux,Tipo de cambio,نوع معدل,Тип тарифа
+RatingLine,Rating Line,Rating Line,Bewertungslinie,Ligne de notation,Línea de calificación,خط التقييم,Рейтинговая линия
+Reject,Reject,Reject,Ablehnen,Rejeter,Rechazar,يرفض,Отклонять
+ULDType,ULD Type,ULD Type,ULD-Typ,Type ULD,Tipo ULD,نوع يو إل دي,Тип УЛД
+Weight,Weight,Weight,Gewicht,Poids,Peso,وزن,Масса
+WeightUnit,Weight Unit,Weight Unit,Gewichtseinheit,Unité de poids,Unidad de peso,وحدة الوزن,Весовая единица
+title,Select Contract,Select Contract,Wählen Sie Vertrag,Sélectionnez un contrat,Seleccionar contrato,حدد العقد,Выберите контракт
+AEONumber,AEO Number,AEO Number,AEO-Nummer,Numéro OEA,Número OEA,رقم المشغل الاقتصادي المعتمد,Номер УЭО
+AWBCreditCard,AWB Credit Card,AWB Credit Card,AWB-Kreditkarte,Carte de crédit AWB,Tarjeta de crédito AWB,بطاقة ائتمان ايه دبليو بي,Кредитная карта AWB
+Account,Account,Account,Konto,Compte,Cuenta,حساب,Счет
+AddCreditCard,Add Credit Card,Add Credit Card,Kreditkarte hinzufügen,Ajouter une carte de crédit,Agregar tarjeta de crédito,إضافة بطاقة الائتمان,Добавить кредитную карту
+Address,Address,Address,Adresse,Adresse,DIRECCIÓN,عنوان,Адрес
+BillingAddress,Billing Address,Billing Address,Rechnungsadresse,adresse de facturation,Dirección de Envio,عنوان وصول الفواتير,Адрес для выставления счета
+CSF,CSF,CSF,CSF,LCR,LCR,السائل الدماغي الشوكي,СМЖ
+CardNumber,Card Number,Card Number,Kartennummer,Numéro de carte,Número de tarjeta,رقم البطاقة,Номер карты
+City,City,City,Stadt,Ville,Ciudad,مدينة,Город
+ContactPersonsName,Contact Persons Name,Contact Persons Name,Name der Kontaktperson,Nom de la personne à contacter,Nombre de la persona de contacto,اسم جهة الاتصال,Имя контактного лица
+ContactPersonsPhoneNumber,Contact Persons Phone Number,Contact Persons Phone Number,Telefonnummer der Kontaktperson,Numéro de téléphone de la personne à contacter,Número de teléfono de la persona de contacto,رقم هاتف جهة الاتصال,Номер телефона контактного лица
+Country,Country,Country,Land,Pays,País,دولة,Страна
+CreditCard,Credit Card,Credit Card,Kreditkarte,Carte de crédit,Tarjeta de crédito,بطاقة إئتمان,Кредитная карта
+CreditCardHoldersName,Credit Card Holders Name,Credit Card Holders Name,Name des Kreditkarteninhabers,Nom du titulaire de la carte de crédit,Nombre del titular de la tarjeta de crédito,اسم حامل بطاقة الائتمان,Имя владельца кредитной карты
+CustomerContactInfo,Customer Contact Info.,Customer Contact Info.,Kundenkontaktinformationen.,Informations de contact client.,Información de contacto del cliente.,معلومات الاتصال بالعملاء.,Контактная информация клиента.
+CustomsContactInfo,Customs Contact Info.,Customs Contact Info.,Kontaktinformationen des Zolls.,Coordonnées des douanes.,Información de contacto de aduanas.,معلومات الاتصال الجمركية.,Контактная информация таможни.
+Email,Email,Email,Email,E-mail,Correo electrónico,بريد إلكتروني,Электронная почта
+EstablishedDate,Established Date,Established Date,Festgelegtes Datum,Date d'établissement,Fecha establecida,موعد محدد سلفا,Дата основания
+Expires,Expires,Expires,Läuft ab,Expire,Vence,تنتهي,Срок действия истекает
+ExportCreditCard,Export Credit Card,Export Credit Card,Kreditkarte exportieren,Exporter une carte de crédit,Tarjeta de crédito de exportación,تصدير بطاقة الائتمان,Экспортная кредитная карта
+Fax,Fax,Fax,Fax,Fax,Fax,فاكس,Факс
+FrequentFlyerNumber,Frequent Flyer Number,Frequent Flyer Number,Vielfliegernummer,Numéro de voyageur fréquent,Número de viajero frecuente,رقم المسافر الدائم,Номер часто летающего пассажира
+IdentificationCode,Identification Code,Identification Code,Identifikationsnummer,Code d'identification,Código de identificación,رمز التعريف,Идентификационный код
+ImportCreditCard,Import Credit Card,Import Credit Card,Kreditkarte importieren,Importer une carte de crédit,Importar tarjeta de crédito,استيراد بطاقة الائتمان,Импортировать кредитную карту
+Name,Name,Name,Name,Nom,Nombre,اسم,Имя
+ParticiapntStation,Particiapnt Station,Particiapnt Station,Teilnehmerstation,Station de participation,Estación participante,محطة المشاركين,Станция участника
+ParticipantAccount,Participant Account,Participant Account,Teilnehmerkonto,Compte participant,Cuenta de participante,حساب المشارك,Аккаунт участника
+ParticipantDetails,Participant Details,Participant Details,Teilnehmerdetails,Détails des participants,Detalles del participante,تفاصيل المشاركين,Детали участника
+ParticipantName,Participant Name,Participant Name,Teilnehmername,Nom du participant,Nombre del participante,اسم المشارك,Имя участника
+Participants,Participants,Participants,Teilnehmer,Participants,Participantes,مشاركون,Участники
+Phone,Phone,Phone,Telefon,Téléphone,Teléfono,هاتف,Телефон
+PostalCode,Postal Code,Postal Code,Postleitzahl,Code Postal,Código Postal,رمز بريدي,Почтовый индекс
+Postalcode,Postal code,Postal code,Postleitzahl,Code Postal,Código Postal,رمز بريدي,Почтовый индекс
+SameasConsigneeAddress,Same as Consignee Address,Same as Consignee Address,Entspricht der Empfängeradresse,Identique à l'adresse du destinataire,Igual que la dirección del destinatario,نفس عنوان المرسل إليه,"То же, что и адрес грузополучателя"
+SameasShipperAddress,Same as Shipper Address,Same as Shipper Address,Entspricht der Versenderadresse,Identique à l'adresse de l'expéditeur,Igual que la dirección del remitente,نفس عنوان الشاحن,"То же, что адрес отправителя"
+SecurityStatus,Security Status,Security Status,Sicherheitsstatus,Statut de sécurité,Estado de seguridad,الحالة الأمنية,Статус безопасности
+SecurityStatusInfo,Security Status Info.,Security Status Info.,Informationen zum Sicherheitsstatus.,Informations sur l'état de sécurité.,Información del estado de seguridad.,معلومات الحالة الأمنية.,Информация о статусе безопасности.
+State,State,State,Zustand,État,Estado,ولاية,Состояние
+Station,Station,Station,Bahnhof,Gare,Estación,محطة,Станция
+Type,Type,Type,Typ,Taper,Tipo,يكتب,Тип
+VATAccount,VAT Account,VAT Account,MwSt.-Konto,Compte TVA,Cuenta IVA,حساب ضريبة القيمة المضافة,НДС-счет
+ViewDetails,View Details,View Details,Details anzeigen,Voir les détails,Ver detalles,عرض التفاصيل,Посмотреть детали
+ViewParticipants,View Participants,View Participants,Teilnehmer anzeigen,Afficher les participants,Ver participantes,عرض المشاركين,Посмотреть участников

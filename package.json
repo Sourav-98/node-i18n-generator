@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js en_US en_GB de_DE fr_FR es_ES ru_RU ar_AE",
+    "build": "minify index.js > index.min.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
@@ -15,6 +16,7 @@
   "author": "SRC Inc.",
   "license": "ISC",
   "dependencies": {
-    "csv-parse": "^5.5.2"
+    "csv-parse": "^5.5.2",
+    "minify": "^10.5.2"
   }
 }

@@ -1,0 +1,84 @@
+Keys,en_US,en_GB,de_DE,fr_FR,es_ES,ar_AE,ru_RU
+AddFlightAirWaybillDocuments,Add Flight Air Waybill Documents,Add Flight Air Waybill Documents,Fügen Sie Flug-Luftfrachtbriefdokumente hinzu,Ajouter des documents de lettre de transport aérien,Agregar documentos de guía aérea de vuelo,أضف مستندات بوليصة الشحن الجوي للرحلة,Добавить документы авианакладной на рейс
+AddStatus,Add Status,Add Status,Status hinzufügen,Ajouter un statut,Agregar estado,أضف الحالة,Добавить статус
+AirWaybill,Air Waybill,Air Waybill,Luftfrachtbrief,Lettre de transport aérien,Carta de porte aéreo,بوليصة الشحن الجوي,Авианакладная
+AirWaybillDocuments,Air Waybill Documents,Air Waybill Documents,Luftfrachtbriefdokumente,Documents de lettre de transport aérien,Documentos de guía aérea,وثائق بوليصة الشحن الجوي,Документы авианакладной
+Cancel,Cancel,Cancel,Stornieren,Annuler,Cancelar,يلغي,Отмена
+Date,Date,Date,Datum,Date,Fecha,تاريخ,Дата
+DisplayOptions,Display Options,Display Options,Anzeigeoptionen,Option d'affichage,Opciones de pantalla,خيارات العرض,Показать варианты
+DocumentStatus,Document Status,Document Status,Dokumentstatus,Statut du document,Estado del documento,حالة المستند,Статус документа
+Identifier,Identifier,Identifier,Kennung,Identifiant,Identificador,المعرف,Идентификатор
+InboundAirWaybill,Inbound Air Waybill,Inbound Air Waybill,Eingehender Luftfrachtbrief,Lettre de transport aérien entrant,Carta de porte aéreo entrante,بوليصة الشحن الجوي الواردة,Входящая авианакладная
+OutboundAirWaybill,Outbound Air Waybill,Outbound Air Waybill,Ausgehender Luftfrachtbrief,Lettre de transport aérien sortant,Carta de porte aéreo de salida,بوليصة الشحن الجوي الصادرة,Исходящая авианакладная
+Remarks,Remarks,Remarks,Bemerkungen,Remarques,Observaciones,ملاحظات,Примечания
+TemporaryAirWaybillDocuments,Temporary Air Waybill Documents,Temporary Air Waybill Documents,Temporäre Luftfrachtbriefdokumente,Documents de lettre de transport aérien temporaires,Documentos temporales de guía aérea,وثائق بوليصة الشحن الجوي المؤقتة,Документы временной авианакладной
+Time,Time,Time,Zeit,Temps,Tiempo,وقت,Время
+UpdateFlightAirWaybillDocuments,Update Flight Air Waybill Documents,Update Flight Air Waybill Documents,Aktualisieren Sie die Flugfrachtbriefdokumente,Mettre à jour les documents de la lettre de transport aérien du vol,Actualizar documentos de guía aérea de vuelo,تحديث وثائق بوليصة الشحن الجوي للرحلة,Обновить документы авианакладной на рейс
+UpdateStatus,Update Status,Update Status,Update Status,État de mise à jour,Estado de actualización,تحديث الحالة,Обновить состояние
+AircraftType,Aircraft Type,Aircraft Type,Flugzeugtyp,Type d'avion,Tipo de aeronave,نوع الطائرة,Тип самолета
+Arrival,Arrival,Arrival,Ankunft,Arrivée,Llegada,الوصول,Прибытие
+CarrierRestrictions,Carrier Restrictions,Carrier Restrictions,Beschränkungen des Mobilfunkanbieters,Restrictions des transporteurs,Restricciones del transportista,قيود الناقل,Ограничения оператора связи
+Connections,Connections,Connections,Verbindungen,Connexions,Conexiones,روابط,Соединения
+Date,Date,Date,Datum,Date,Fecha,تاريخ,Дата
+Days,Days,Days,Tage,Jours,Días,أيام,Дни
+Departure,Departure,Departure,Abfahrt,Départ,Partida,رحيل,Отправление
+EndDate,End Date,End Date,Endtermin,Date de fin,Fecha final,تاريخ الانتهاء,Дата окончания
+Flight,Flight,Flight,Flug,Vol,Vuelo,رحلة جوية,Полет
+FlightRestrictions,Flight Restrictions,Flight Restrictions,Flugbeschränkungen,Restrictions de vol,Restricciones de vuelo,قيود الطيران,Ограничения на полеты
+FlightSchedule,Flight Schedule,Flight Schedule,Flugplan,Horaire de vol,Horario de vuelo,جدول الطيران,Расписание полетов
+FlightType,Flight Type,Flight Type,Flugtyp,Type de vol,Tipo de vuelo,نوع الرحلة,Тип рейса
+From,From,From,Aus,Depuis,De,من,От
+MinimumConnectTime,Minimum Connect Time,Minimum Connect Time,Mindestverbindungszeit,Temps de connexion minimum,Tiempo mínimo de conexión,الحد الأدنى لوقت الاتصال,Минимальное время подключения
+MultipleDestinationAirportFound,Multiple Destination Airport Found,Multiple Destination Airport Found,Mehrere Zielflughäfen gefunden,Aéroport à destinations multiples trouvé,Aeropuerto de destino múltiple encontrado,تم العثور على مطار متعدد الوجهات,Найдено несколько аэропортов назначения
+MultipleOriginAirportFound,Multiple Origin Airport Found,Multiple Origin Airport Found,Mehrere Herkunftsflughäfen gefunden,Aéroport d'origine multiple trouvé,Aeropuerto de origen múltiple encontrado,تم العثور على مطار متعدد الأصل,Обнаружено несколько аэропортов отправления
+NumberofStops,Number of Stops,Number of Stops,Anzahl der Stopps,Nombre d'arrêts,Número de paradas,عدد التوقفات,Количество остановок
+Search,Search,Search,Suchen,Recherche,Buscar,يبحث,Поиск
+Segment,Segment,Segment,Segment,Segment,Segmento,شريحة,Сегмент
+StartDate,Start Date,Start Date,Startdatum,Date de début,Fecha de inicio,تاريخ البدء,Дата начала
+Time,Time,Time,Zeit,Temps,Tiempo,وقت,Время
+To,To,To,Zu,À,A,ل,К
+Warning,Warning,Warning,Warnung,Avertissement,Advertencia,تحذير,Предупреждение
+AircraftType,Aircraft Type,Aircraft Type,Flugzeugtyp,Type d'avion,Tipo de aeronave,نوع الطائرة,Тип самолета
+AlertCodes,Alert Codes,Alert Codes,Alarmcodes,Codes d'alerte,Códigos de alerta,رموز التنبيه,Коды оповещений
+Assigned,Assigned,Assigned,Zugewiesen,Attribué,Asignado,مُكَلَّف,Назначенный
+Booked,Booked,Booked,Gebucht,Réservé,Reservado,حجز,Забронировано
+BreakdownPieces,Breakdown Pieces,Breakdown Pieces,Aufschlüsselungsstücke,Pièces de panne,Piezas de desglose,قطع الانهيار,Разбивка по частям
+BreakdownULDs,Breakdown ULDs,Breakdown ULDs,Aufschlüsselung der ULDs,ULD de répartition,Desglose de ULD,انهيار ULDs,Разбивка ULD
+BreakdownWeight,Breakdown Weight,Breakdown Weight,Aufschlüsselungsgewicht,Poids de ventilation,Peso de desglose,وزن الانهيار,Разбивной вес
+Carrier,Carrier,Carrier,Träger,Transporteur,Transportador,الناقل,Перевозчик
+ClearFilter,Clear Filter,Clear Filter,Filter löschen,Effacer le filtre,Filtro claro,مرشح واضح,Очистить фильтр
+Date,Date,Date,Datum,Date,Fecha,تاريخ,Дата
+DisplayTime,Display Time,Display Time,Anzeigezeit,Temps d'affichage,Tiempo de visualización,وقت العرض,Время отображения
+EndDate,End Date,End Date,Endtermin,Date de fin,Fecha final,تاريخ الانتهاء,Дата окончания
+EndHours,End Hours,End Hours,Endzeiten,Heures de fin,Horario final,ساعات النهاية,Конечные часы
+EndTime,End Time,End Time,Endzeit,Heure de fin,Hora de finalización,وقت النهاية,Время окончания
+FFMOnlyShipments,FFM Only Shipments,FFM Only Shipments,Nur FFM-Sendungen,Expéditions FFM uniquement,Envíos solo FFM,بعثة تقصي الحقائق فقط الشحنات,Только поставки FFM
+FilterOptions,Filter Options,Filter Options,Filteroptionen,Options de filtre,Opciones de filtro,خيارات التصفية,Параметры фильтра
+Flight,Flight,Flight,Flug,Vol,Vuelo,رحلة جوية,Полет
+FlightSummary,Flight Summary,Flight Summary,Flugzusammenfassung,Résumé du vol,Resumen de vuelo,ملخص الرحلة,Сводка полета
+FlightType,Flight Type,Flight Type,Flugtyp,Type de vol,Tipo de vuelo,نوع الرحلة,Тип рейса
+From,From,From,Aus,Depuis,De,من,От
+FutureOnly,Future Only,Future Only,Nur Zukunft,Futur seulement,Sólo futuro,المستقبل فقط,Только будущее
+Inbound,Inbound,Inbound,Eingehende,Entrant,Entrante,واردة,Входящий
+InboundFlights,Inbound Flights,Inbound Flights,Inbound-Flüge,Vols entrants,Vuelos entrantes,الرحلات الداخلية,Прибывающие рейсы
+IncludeNIL,Include NIL,Include NIL,NULL einbeziehen,Inclure NÉANT,Incluir NINGUNO,تضمين لا شيء,Включить НОЛЬ
+LastBuild,Last Build,Last Build,Letzter Build,Dernière construction,Última construcción,البناء الأخير,Последняя сборка
+LocalPieces,Local Pieces,Local Pieces,Lokale Stücke,Pièces locales,Piezas Locales,القطع المحلية,Местные произведения
+LocalULDs,Local ULDs,Local ULDs,Lokale ULDs,ULD locaux,ULD locales,وحدات ULD المحلية,Местные ULD
+LocalWeight,Local Weight,Local Weight,Lokales Gewicht,Poids local,Peso local,الوزن المحلي,Местный вес
+Outbound,Outbound,Outbound,Ausgehend,Sortant,saliente,الصادرة,Исходящий
+OutboundFlights,Outbound Flights,Outbound Flights,Hinflüge,Vols aller,Vuelos de ida,الرحلات الخارجية,Исходящие рейсы
+Pad,Pad,Pad,Unterlage,Tampon,Almohadilla,ضمادة,Подушка
+Pieces,Pieces,Pieces,Stücke,Pièces,Piezas,قِطَع,Куски
+Search,Search,Search,Suchen,Recherche,Buscar,يبحث,Поиск
+SpecialHandlingCodes,Special Handling Codes,Special Handling Codes,Besondere Handhabungscodes,Codes de manutention spéciaux,Códigos de manejo especiales,رموز التعامل الخاصة,Специальные коды обработки
+StartDate,Start Date,Start Date,Startdatum,Date de début,Fecha de inicio,تاريخ البدء,Дата начала
+StartTime,Start Time,Start Time,Startzeit,Heure de début,Hora de inicio,وقت البدء,Время начала
+Station,Station,Station,Bahnhof,Gare,Estación,محطة,Станция
+Status,Status,Status,Status,Statut,Estado,حالة,Положение дел
+Time,Time,Time,Zeit,Temps,Tiempo,وقت,Время
+To,To,To,Zu,À,A,ل,К
+Totals,Totals,Totals,Summen,Totaux,Totales,المجاميع,Итоги
+TransitULDs,Transit ULDs,Transit ULDs,Transit-ULDs,ULD de transit,ULD de tránsito,وحدات النقل العابر,Транзитные ULD
+Weight,Weight,Weight,Gewicht,Poids,Peso,وزن,Масса
+Workload,Workload,Workload,Arbeitsbelastung,Charge de travail,Carga de trabajo,عبء العمل,Нагрузка
